@@ -18,4 +18,5 @@
 **Generate Response:** The get_response function sends the question to the Gemini 1.5 Pro model, processes the response, and streams it back to the user.
 **Chat History:** Maintains a history of interactions, displayed at the bottom of the application interface.
 
-![localhost_8501_](https://github.com/user-attachments/assets/151992c7-48ac-493b-b202-0225a4197dc5)
+![localhost_8501_](https://github.com/user-attachments/assets/02fdbae0-a0dc-48fe-8da8-9e0f080baac9)
+
